@@ -1,6 +1,6 @@
 This is a template for LaTeX thesis (M.Sc. or PhD) at SUTD.
 
-This template was adapted by Martin Ochoa is based on a template downloaded from:
+This template was adapted by Martin Ochoa based on a template downloaded from:
 
 http://www.LaTeXTemplates.com
 
